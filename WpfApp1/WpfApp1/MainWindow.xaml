@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Кофейный аппарат" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="americano_rb" Content="Американо" HorizontalAlignment="Left" Margin="37,123,0,0" VerticalAlignment="Top" IsChecked="True" Click="Americano_rb_Click"/>
+        <RadioButton x:Name="cappuccino_rb" Content="Капучино" HorizontalAlignment="Left" Margin="37,159,0,0" VerticalAlignment="Top" IsChecked="False" Click="Cappuccino_rb_Click"/>
+        <RadioButton x:Name="espresso_rb" Content="Эспрессо" HorizontalAlignment="Left" Margin="37,204,0,0" VerticalAlignment="Top" IsChecked="False" Click="Espresso_rb_Click"/>
+        <RadioButton x:Name="cocoa_rb" Content="Какао" HorizontalAlignment="Left" Margin="37,249,0,0" VerticalAlignment="Top" IsChecked="False" Click="Cocoa_rb_Click"/>
+        <CheckBox x:Name="sugar_cb" Content="Сахар" HorizontalAlignment="Left" Margin="175,126,0,0" VerticalAlignment="Top" Click="sugar_cb_Click"/>
+        <CheckBox x:Name="milk_cb" Content="Молоко" HorizontalAlignment="Left" Margin="175,162,0,0" VerticalAlignment="Top" Click="milk_cb_Click"/>
+        <Image x:Name="drink_img" HorizontalAlignment="Left" Height="196" Margin="434,109,0,0" VerticalAlignment="Top" Width="220" AutomationProperties.Name="Drink"/>
+        <Image x:Name="milk_img" HorizontalAlignment="Left" Height="172" Margin="659,92,0,0" VerticalAlignment="Top" Width="100" AutomationProperties.Name="Milk"/>
+        <Image x:Name="sugar_img" HorizontalAlignment="Left" Height="100" Margin="457,295,0,0" VerticalAlignment="Top" Width="206" AutomationProperties.Name="Sugar"/>
+        <TextBox x:Name="money_tb" HorizontalAlignment="Left" Height="23" Margin="37,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button_enter" Content="Внести деньги" HorizontalAlignment="Left" Margin="50,53,0,0" VerticalAlignment="Top" Width="107" Click="button_enter_Click"/>
+        <Button x:Name="button_ok" Content="Ок" HorizontalAlignment="Left" Margin="62,326,0,0" VerticalAlignment="Top" Width="110" Click="button_ok_Click"/>
+        <Label x:Name="info_label" Content="Внесенная сумма: " HorizontalAlignment="Left" Margin="291,24,0,0" VerticalAlignment="Top" Width="186"/>
+        <Label x:Name="cost_label" Content="Цена напитка:" HorizontalAlignment="Left" Margin="291,92,0,0" VerticalAlignment="Top" Width="138"/>
+
+    </Grid>
+</Window>

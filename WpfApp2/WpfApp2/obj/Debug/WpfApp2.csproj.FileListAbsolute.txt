@@ -1,0 +1,76 @@
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\alina\Documents\Библиотека\ИСПРО\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+D:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+E:\subjects\Кузнецов ИСПРО\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.AssemblyReference.cache
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.SuggestedBindingRedirects.cache
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+C:\anya\UPK\subjects\4_course\ISRPO\Лаб5\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
+H:\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe.config
+H:\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.exe
+H:\Лаб5\WpfApp2\WpfApp2\bin\Debug\WpfApp2.pdb
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.g.cs
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\App.g.cs
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\MainWindow.baml
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.g.resources
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.exe
+H:\Лаб5\WpfApp2\WpfApp2\obj\Debug\WpfApp2.pdb
